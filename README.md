@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/base-apparel-coming-soon-master/screenshot.jpeg)
+![](/screenshot.jpeg)
 
 ### Links
 
